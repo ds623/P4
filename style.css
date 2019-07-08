@@ -1,0 +1,51 @@
+/*DEVELOPER DAVID SOSA, IS117-041, Summer 2019 */
+
+body{
+    background-image: url("images/P4background.png");
+}
+/* general information page */
+#footercopy{
+    color: black;
+    background-color: white; opacity: 0.8;
+}
+#homeparagraph{
+    padding: 20px;
+    margin: 20px;
+    width: 1000px;
+    text-align: center;
+}
+h1 {
+    color: green;
+    background-color: lightblue;
+    text-align: center;
+}
+.geninfo{
+    text-align: center;
+}
+
+p{
+    color: black;
+    background-color: white; opacity: 1;
+}
+.paragraph{
+    color: black;
+    background-color: white;
+}
+/* the tab for the links at the top */
+.contacttab{
+    padding-right: 10em;
+}
+.topnav a {
+     padding: 10px 10px;
+    text-align: center;
+}
+.topnav a:hover {
+    background-color: blue;
+    color: red;
+}
+
+/* general information page */
+#geninfopage{
+    color: green;
+    background-color: lightblue;
+}
